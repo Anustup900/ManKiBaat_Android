@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ManKi Baat</string>
+    <string name="welcome_to">Welcome To,</string>
+    <string name="man_ki_baat"> Man Ki Baat</string>
+    <string name="login">Login</string>
+    <string name="email_id_or_user_name">Email Id or UserName</string>
+    <string name="password">Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="signup">Sign-Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="next">Next</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="or_login_with">Or Login With</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
